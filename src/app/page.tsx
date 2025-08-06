@@ -6,7 +6,7 @@ export default function Home() {
      
       
       <header className="w-full text-center bg-green-800 text-white p-4">
-        <h1 className="text-2xl font-bold">GATOS</h1>
+        <h1 className="text-2xl font-bold">Carrosel dos Gatos</h1>
       </header>
       
       
